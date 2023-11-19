@@ -1,3 +1,11 @@
+
+html{
+    font-family: sans-serif;
+}
+body{
+    background-color: aquamarine;
+    width: 50%;
+}
 h1{
     color: black;
     text-align: justify;
@@ -9,4 +17,13 @@ h2{
 p{
     color: red;
     text-align: center;
+    font: arial;
+    font-size: lem;/* tamaño de fuente*/
+    border: 15px solid black; /*para poder poner un borde en el parrafo o donde queramos*/
+    padding: 10Px; /* esto sirve para poner un espacio entre el borde y el texto*/
+    margin: 25px; /*para poner margenes*/
+    font-family: 'Times New Roman', Times, serif;
+    height: 10px;
+    width: auto;
+    border-radius: 0.3rem;
 }
