@@ -1,0 +1,56 @@
+:root
+{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+table
+{
+    font-size:small;
+    border: gray 1px solid;
+    border-collapse: separate;
+    margin: 20px;
+    padding: 20px;
+   width: 20%;
+   height: 350px;
+    
+}
+
+.titu
+{
+    font-size:medium;
+    color: grey;
+}
+.bot
+{
+    background-color: #5A4BF3;
+    color: white;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    font-weight: bold;
+    border-color: #5A4BF3 solid;
+
+
+}
+.lol
+{
+    width: 95%;
+    height: 90%; 
+}
+
+.enla
+{
+    text-align: center;
+    color: #5A4BF3 ;
+}
+.enla2
+{
+    text-align: center;
+    color:#5A4BF3 ;
+}
+.cont
+{
+    font-size: smaller;
+    
+}

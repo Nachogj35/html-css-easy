@@ -1,0 +1,36 @@
+
+:root{
+}
+table
+{
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: white;
+  border-collapse: collapse;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+  align-items: center;
+  width: 1000px;
+  border: #F5F0F0 1px solid;
+}
+
+td
+{
+    padding: 15px;
+    text-align: center;
+}
+.cabeza
+{
+    color: white;
+    background-color: black;
+}
+.uno
+{
+
+    color: black;
+    background-color: #F5F0F0;
+}
+
+    

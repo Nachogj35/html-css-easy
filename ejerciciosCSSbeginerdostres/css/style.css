@@ -1,0 +1,42 @@
+
+:root{
+    background-color:#FA6161;
+}
+table
+{
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: white;
+  border-collapse: collapse;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: small;
+  font-weight: bold;
+  align-items: center;
+}
+
+td
+{
+    padding: 25px;
+    text-align: center;
+}
+.days
+{
+    
+    background-color: black;
+    color: white;
+
+}
+
+.tiki
+{
+    background-color: black;
+}
+.week
+{
+    color: gray;
+}
+
+
+    
