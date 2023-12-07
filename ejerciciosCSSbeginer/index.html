@@ -11,26 +11,37 @@
 
     <h1>Calendario 1 CSS</h1>
 
-<table class="tabla1">
 
-    <tr>
-        <td colspan="3">
-            <form clas="meses">
-                <select>
-                    <option>Feb</option>
-                    <option>March</option>
-                    <option>April</option>
+    <div class="tabla1">
+            <form>
+                <select class="meses">
+                    <option value="">Ene</option>
+                    <option value="">Feb</option>
+                    <option value="">Mar</option>
+                    <option value="">Abr</option>
+                    <option value="">May</option>
+                    <option value="">Jun</option>
+                    <option value="">Jul</option>
+                    <option value="">Agosto</option>
+                    <option value="">Sep</option>
+                    <option value="">Octubre</option>
+                    <option value=""selected>Nov</option>
+                    <option value="" >Diciembre</option>
                 </select>
-            </form>
-        </td>
-        <td class="espacio"></td>
-        
-        <td colspan="4">
-            <form clas="year">
-                <select>
-                    <option>2023</option>
-                    <option>2022</option>
-                    <option>2021</option>
+    
+                <select class="año">
+                    <option value="">2010</option>
+                    <option value="">2011</option>
+                    <option value="">2012</option>
+                    <option value="">2013</option>
+                    <option value="">2014</option>
+                    <option value="">2015</option>
+                    <option value="">2016</option>
+                    <option value="">2018</option>
+                    <option value="">2019</option>
+                    <option value="">2020</option>
+                    <option value="">2022</option>
+                    <option value="" selected>2023</option>
                 </select>
             </form>
 
@@ -39,6 +50,7 @@
         
         
     </tr>
+    <table>
     <tr>
         <td class="days">M</td>
         <td class="days">T</td>
@@ -111,17 +123,17 @@
         <td class="week1">31</td> 
                         
         </tr>
+        </table>
 
-        <tr> <!--Botones-->
+        
         <form>
         <td colspan="4"><button class="b1">Back</button></td>
         <td colspan="3"><button class="b2">Apply</button></td>                  
                             
         
         </form>
-    </tr>
+    </div>
    
-</table>
     
 </body>
 </html>

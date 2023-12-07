@@ -2,7 +2,7 @@
 :root{
     background-color: #CFDBD6;
 }
-table
+.tabla1
 {
 
  /* border-radius: 0.5em;
@@ -10,10 +10,24 @@ table
   border-radius: 2em;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: brown;
-  padding: 0.1em;
+ 
+  margin: 3em auto;
   border:#CFDBD6 1px solid;/*borde de color de la tabla*/
   background-color: white;
-  border-collapse: collapse;
+  width: 30%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+
+  
+}
+table
+{
+    border-collapse: collapse;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
 
 button
@@ -24,6 +38,8 @@ border-color: white;
 width: 190px;
 height: 50px;
 text-align: center;
+padding: 0.6em;
+
 }
 .b1
 {
@@ -41,6 +57,8 @@ border-radius: 2em;
 border-color: white;
 width: 190px;
 height: 50px;
+padding: 0.6em;
+border-right: 16px solid transparent;
 }
 td
 {
@@ -54,10 +72,12 @@ td
 .weekg
 {
     color:gray;
+    background-color: beige;
 }
 .week1
 {
     color:black;
+    background-color: beige;
 }
 .week2
 {
@@ -69,6 +89,8 @@ td
     color:#DD0A0A;
     background-color: #DB9B9B;
     border-bottom:red 5px solid;
+    border-top-right-radius: 1m;
+    
 
 }
 .lem
@@ -77,6 +99,7 @@ td
     border-radius: 1em;
     border-color: #DD0A0A;
     color:white;
+
 }
 
 /*

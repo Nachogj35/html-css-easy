@@ -1,0 +1,83 @@
+
+:root{
+    background-color: #CFDBD6;
+}
+
+p
+{
+    color: grey
+    padding: 1.5em;
+}
+code
+{
+background-color: black;
+color: yellow;
+height: fit-content;
+width: 30%;
+margin: 0.5;
+padding: 1%;
+display: inline-block;
+border-radius: 12px;
+
+
+}
+div{
+    width: 80%;
+    margin : 5% auto;
+    padding:2%;
+}
+table
+{
+border:black 1px solid;
+background-color: white;
+padding: 0.5em;
+margin:2% auto;
+border-collapse: collapse;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+th,tr,
+td
+{
+border:black 1px solid;
+padding: 1em;
+
+margin: auto;
+
+}
+.black
+{
+background-color: black;
+color: white;
+}
+
+.ver
+{
+    background-color: green;
+
+}
+.luz
+{
+    background-color: orange;
+}
+.tuto
+{
+    background-color: blueviolet;
+}
+.ing
+{
+    background-color: pink;
+}
+.mat
+{
+    background-color: blue;
+}
+.esqui
+{
+    border-top: white 0px solid;
+    border-left: white 0px solid;
+}
